@@ -1,7 +1,7 @@
 Hi, chaisebasse is just a nickname, my real name is Ermanno !
 I'm currently an undergrad student at Université Paris Nanterre in a double degree in Economics/Management and Mathematics/Computer Science 🖥️
 
-For now my main programming languages are : Ruby (RoR) C and some Python (Flask).
+For now my main programming languages are : Ruby (RoR), C and some Python (Flask).
 I am proficient in JavaScript, HTML and CSS, though I much prefer the previously mentioned programming languages
 
 I'm always looking for a mentor more experienced than me, especially in C and low level programming, to help me in my learning.
